@@ -2,6 +2,21 @@
 Tips tutorials and blogs
 
 
+* [Always Use Asynchronous Methods](#always-use-asynchronous-methods)
+* [Never require Modules After App Initialization](#never-require-modules-after-app-initialization)
+* [Save a reference to this Because it Changes Based on Context](#save-a-reference-to-this-because-it-changes-based-on-context)
+* [Always "use strict"](#always-use-strict)
+* [Validate that Callbacks are Callable](#validate-that-callbacks-are-callable)
+* [Callbacks Always Pass Error Parameter First](#callbacks-always-pass-error-parameter-first)
+* [Always Check for "error" in Callbacks](#always-check-for-error-in-callbacks)
+* [Use Exception Handling When Errors Can Be Thrown](#use-exception-handling-when-errors-can-be-thrown)
+* [Use module.exports not exports](#use-moduleexports-not-exports)
+* [Use JSDoc](#use-jsdoc)
+* [Use a Process Manager like upstart, forever, or pm2](#use-a-process-manager-like-upstart-forever-or-pm2)
+* [Follow CommonJS Standard](#follow-commonjs-standard)
+
+
+
 **The JavaScript guide to objects, functions, scope, prototype and closures**
 
 URL : http://hangar.herokuapp.com/javascript/guide 
