@@ -3,6 +3,7 @@ Tips tutorials and blogs
 
 
 **The JavaScript guide to objects, functions, scope, prototype and closures**
+
 URL : http://hangar.herokuapp.com/javascript/guide 
 
 >If you’re new to JavaScript or have not ventured deep into the jungles of code, this article will do the job of filling you in with important features that are required when writing Node.js apps. 
