@@ -2,13 +2,13 @@
 Tips tutorials and blogs
 
 
-**The JavaScript guide to objects, functions, scope, prototype and closures**
+1. **The JavaScript guide to objects, functions, scope, prototype and closures**
 >URL : http://hangar.herokuapp.com/javascript/guide 
 
 If you’re new to JavaScript or have not ventured deep into the jungles of code, this article will do the job of filling you in with important features that are required when writing Node.js apps. 
 
 
-**Parsing PDFs using Node.js** 
+2. **Parsing PDFs using Node.js** 
 >URL : http://css.dzone.com/articles/parsing-pdfs-scale-nodejs
 
 This article demonstrates how to parse and process PDF documents. Its a it old, nevertheless, quite useful if you’re building apps that have to read, parse and store documents for analysis.
