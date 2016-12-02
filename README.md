@@ -1,4 +1,4 @@
-# Nodejs
+# Nodejs :+1
 Tips tutorials and blogs
 
 
@@ -10,14 +10,17 @@ URL : http://hangar.herokuapp.com/javascript/guide
 
 
 **Parsing PDFs using Node.js** 
->URL : http://css.dzone.com/articles/parsing-pdfs-scale-nodejs
 
-This article demonstrates how to parse and process PDF documents. Its a it old, nevertheless, quite useful if you’re building apps that have to read, parse and store documents for analysis.
+URL : http://css.dzone.com/articles/parsing-pdfs-scale-nodejs
+
+>This article demonstrates how to parse and process PDF documents. Its a it old, nevertheless, quite useful if you’re building apps that have to read, parse and store documents for analysis.
 
 
 **10 Habits of a Happy Node Hacker**
->URL : https://blog.heroku.com/archives/2014/3/11/node-habits 
-This brilliant write up by Zeke Sikelianos is a must read for anyone getting into Node.js
+ 
+URL : https://blog.heroku.com/archives/2014/3/11/node-habits 
+
+>This brilliant write up by Zeke Sikelianos is a must read for anyone getting into Node.js
 
 
 **Node.js Best Practices**
